@@ -1,0 +1,22 @@
+{
+  "name": "talib-example",
+  "version": "1.0.0",
+  "description": "Instrucciones para instalar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignaciop000/TALib-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignaciop000/TALib-Example/issues"
+  },
+  "homepage": "https://github.com/ignaciop000/TALib-Example#readme",
+  "dependencies": {
+    "talib": "^1.0.5"
+  }
+}
